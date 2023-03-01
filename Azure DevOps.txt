@@ -1,0 +1,1 @@
+Among all the services, Azure DevOps is the most well-known. It is the most dependable and intelligent tool for managing projects, testing, and deploying code via CI/CD. For the time being, Azure DevOps is a complete package of Azure Services such as Azure Repos, Azure Pipelines, Azure Boards, Azure Test Plans, and Azure Artifacts.
