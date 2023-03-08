@@ -3,3 +3,7 @@ Azure Kubernetes Service (AKS) offers the quickest way to start developing and d
 We can get get unified management and governance for on-premises, edge, and multicloud Kubernetes clusters
 
 Interoperate with Azure security, identity, cost management, and migration services.
+
+Creating Azure Kubernetes Cluster => 
+az aks create --resource-group myResourceGroup --name myAKSCluster --location eastus --attach-acr myhelmacr --generate-ssh-keys
+
