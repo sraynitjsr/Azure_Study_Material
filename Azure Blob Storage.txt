@@ -8,3 +8,9 @@ Sixteen nines of designed durability with geo-replication and flexibility to sca
 Secured
 Authentication with Azure Active Directory and role-based access control (RBAC), plus encryption at rest and advanced threat protection.
 
+Optimized for data lakes
+File namespace and multi-protocol access support enabling analytics workloads for data insights.
+
+Comprehensive data management
+End-to-end lifecycle management, policy-based access control, and immutable (WORM) storage.
+
