@@ -2,3 +2,6 @@ This service is used for storing and accessing unstructured data at scale
 
 Azure Blob Storage helps you create data lakes for your analytics needs, and provides storage to build powerful cloud-native and mobile apps.
 
+Scalable, durable, and available
+
+Sixteen nines of designed durability with geo-replication and flexibility to scale as needed.
